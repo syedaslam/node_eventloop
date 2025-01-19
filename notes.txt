@@ -1,0 +1,11 @@
+
+ => Ttransfer-Encoding
+ => utf-8, utf-16
+ => Blocking vs Non-Blocking (done)
+ => Async Methods (ex: async.perallel, async.serial)
+ => eventEmmiter() 
+ => sync vs async
+ => put, post, update
+ => throw error vs throw new error
+ => eslint
+ => pino, winston loggers

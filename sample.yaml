@@ -1,0 +1,25 @@
+name: Aslam
+age: 26
+is_has_a_car: false
+# Object
+course: 
+  - name: angular
+    version: 15
+    isLatest: false
+  - name: node
+    version: 10
+    isLatest: true
+# Variable &price
+price: &price 200
+# variable ref
+payment: *price
+# description multiline
+description: >
+  hello this is the desc 
+  of the course, thank you for choosing
+tag: 
+  -angular
+  -node
+  -express
+  -html
+
